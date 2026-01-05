@@ -1,0 +1,64 @@
+/* 5e D&D NPC Generator Module Styles */
+
+.directory-footer {
+  padding: 0.5rem;
+  border-top: 1px solid var(--color-border-light-tertiary);
+  background: var(--color-bg-btn);
+}
+
+.directory-footer .action-buttons {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.npc-gen-button {
+  flex: 0 0 auto;
+}
+
+.npc-gen-button i {
+  margin-right: 4px;
+}
+
+.npc-generator-form {
+  padding: 0.5rem;
+}
+
+.npc-generator-form .form-group {
+  margin-bottom: 1rem;
+}
+
+.npc-generator-form label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.npc-generator-form input,
+.npc-generator-form select {
+  width: 100%;
+  padding: 0.25rem;
+}
+
+.npc-generator-form .level-inputs {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.npc-generator-form .level-inputs input {
+  flex: 1;
+  width: auto;
+}
+
+.npc-generator-form .level-separator {
+  color: var(--color-text-dark-secondary);
+  font-weight: bold;
+}
+
+.npc-generator-form .hint {
+  margin: 0.25rem 0 0 0;
+  font-size: 0.85em;
+  font-style: italic;
+  color: var(--color-text-dark-secondary);
+}
