@@ -2,7 +2,7 @@
   "id": "5edndnpc",
   "title": "5e D&D NPC Generator",
   "description": "Generates random D&D 5e NPCs and their equipment as Actors in a world.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -34,7 +34,7 @@
     }
   ],
   "url": "https://github.com/neepster/5edndnpc",
-  "manifest": "https://raw.githubusercontent.com/neepster/5edndnpc/main/module.json",
+  "manifest": "https://github.com/neepster/5edndnpc/main/module.json",
   "download": "https://github.com/neepster/5edndnpc/archive/refs/heads/main.zip",
   "readme": "https://github.com/neepster/5edndnpc#readme",
   "license": "LICENSE"
